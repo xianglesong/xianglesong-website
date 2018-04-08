@@ -1,0 +1,52 @@
+<style type="text/css">
+			.subtitle {
+				color:#3c3c3c;
+				font-weight: bold;
+				border-bottom: 0px solid #E0E0E0;
+				padding-bottom: 6px;
+				margin: 18px 0 12px 0;
+				font-size: 16px;
+/* 				background-color:#3071a9; */
+			}
+
+			.linktitle {
+				margin-left: 20px;
+				font-weight: bold;
+				margin-bottom: 1px;
+				margin-top: 6px;
+				font-size: 12px;
+			}
+
+			.explain {
+				margin: 0 0 10px 20px;
+				font-size:10px;
+			}
+
+			.footer {
+				margin: 20px 0 0 0;
+				font-size: 12px;
+				text-align: center;
+			}
+			.contract {
+				border-top: 1px solid #E0E0E0;
+				padding-top: 6px;
+				margin: 1px 0 2px 0;
+			}
+			.copyright {
+				border-top: 0px solid #E0E0E0;
+				padding-top: 1px;
+				margin: 1px 0 1px 0;
+			}
+			#ckepop {
+				float:right;
+			}
+			img.profile {
+				float: left;
+				margin: 10px 0 3px 20px;
+				height: 60px;
+				border-radius: 10px;
+				box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+				-moz-box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+				-webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+			}
+</style>
